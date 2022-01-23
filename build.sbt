@@ -1,4 +1,4 @@
-name := "EnhancedSFU"
+name := "enhancedsfu"
  
 version := "1.0" 
       
